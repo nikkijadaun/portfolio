@@ -23,7 +23,7 @@ function Contact() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/1Atulsingh"
+            href="https://github.com/nikkijadaun"
             target="_blank"
             rel="noopener noreferrer"
             className="flex flex-col items-center gap-2 text-lg font-medium hover:text-gray-400 transition-all duration-300"
