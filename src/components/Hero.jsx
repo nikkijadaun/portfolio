@@ -14,7 +14,7 @@ const Hero = () => {
   <div className="relative z-10 flex flex-col items-center justify-center h-full px-10">
     <div className="text-center max-w-xl">
       <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-4">
-        Hello, I'm Doulat Singh Jaudhan
+        Hello, I'm Doulat Singh Jadaun
       </h1>
       <p className="text-lg sm:text-xl mb-8">
         I am a passionate developer with keen insterest on building web projects.
